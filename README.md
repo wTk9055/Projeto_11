@@ -27,10 +27,8 @@ Este projeto analisa logs de eventos de usuários em um experimento (A/B testing
 * **Estatísticas Descritivas:** Contagem de eventos por tipo, distribuição entre grupos, análise temporal
 * **Descobertas Iniciais:** Padrões de sequência de eventos, comparação inicial entre grupos de experimento
 
-## 📈 Modelagem & Resultados (Se Aplicável)
+## 📈 Modelagem & Resultados
 * **Técnica Utilizada:** Testes de hipótese (qui-quadrado, t-test) para validar diferenças significativas entre grupos
-* **Resultados Obtidos:** [A ser preenchido com resultados específicos da análise]
-* **Insights dos Resultados:** [A ser preenchido com conclusões sobre qual grupo performou melhor e por quê]
 
 ---
 
