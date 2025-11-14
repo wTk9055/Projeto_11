@@ -1,4 +1,4 @@
-# Análise de Logs de Experimento de Usuário (A/B Testing)
+# Análise de Logs de Experimento de Usuário (Teste A/B)
 
 ## 📋 Descrição / Resumo Executivo
 Este projeto analisa logs de eventos de usuários em um experimento (A/B testing) para entender padrões de comportamento e a eficácia de diferentes versões (grupos). O conjunto de dados contém eventos como "MainScreenAppear", "PaymentScreenSuccessful", etc., com timestamps e identificadores de grupo. A análise visa identificar qual grupo apresenta melhor desempenho em métricas de conversão e engajamento, fornecendo insights para decisões de produto e experiência do usuário.
